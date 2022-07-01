@@ -5,6 +5,7 @@ homebrew_installed_packages:
   - bash-completion
   - git
   - node
+  - zsh-history-substring-search
 
 homebrew_cask_apps:
   - docker
