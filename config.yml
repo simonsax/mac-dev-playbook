@@ -1,11 +1,13 @@
-configure_terminal: false
+configure_terminal: true
 configure_osx: false
 
 homebrew_installed_packages:
   - bash-completion
+  - python
   - git
   - node
   - zsh-history-substring-search
+  - mysql
 
 homebrew_cask_apps:
   - docker
@@ -16,6 +18,7 @@ homebrew_cask_apps:
   - onedrive
   - rectangle
   - sequel-ace
+  - bitwarden
 
 pip_packages:
   - name: pipenv
