@@ -20,7 +20,7 @@ homebrew_cask_apps:
   - visual-studio-code
   - bitwarden
 
-pip_packages:
+#pip_packages:
 #  - name: pipenv
 
 configure_dock: true
