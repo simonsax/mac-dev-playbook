@@ -1,5 +1,5 @@
 configure_terminal: true
-configure_osx: false
+configure_osx: true
 
 homebrew_installed_packages:
   - bash-completion
@@ -7,21 +7,21 @@ homebrew_installed_packages:
   - git
   - node
   - zsh-history-substring-search
-  - mysql
+  - poetry
+  - awscli
 
 homebrew_cask_apps:
   - docker
   - dropbox
-  - firefox
+  - jetbrains-toolbox
   - google-chrome
-  - intellij-idea
   - onedrive
   - rectangle
-  - sequel-ace
+  - visual-studio-code
   - bitwarden
 
 pip_packages:
-  - name: pipenv
+#  - name: pipenv
 
 configure_dock: true
 dockitems_remove:
