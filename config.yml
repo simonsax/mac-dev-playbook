@@ -27,3 +27,16 @@ configure_dock: true
 dockitems_remove:
   - Launchpad
   - TV
+  - Messages
+  - Mail
+  - Calendar
+  - Freeform
+  - Music
+  - Contacts
+  - Notes
+  - Reminders
+  - Maps
+  - Photos
+  - FaceTime
+  - App Store
+  - System Preferences
