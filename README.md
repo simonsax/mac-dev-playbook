@@ -117,14 +117,13 @@ Packages (installed with Homebrew):
   - gettext
   - gifsicle
   - git
-  - github/gh/gh
+  - gh
   - go
   - gpg
   - httpie
   - iperf
   - libevent
   - sqlite
-  - mcrypt
   - nmap
   - node
   - nvm
