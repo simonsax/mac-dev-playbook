@@ -51,7 +51,6 @@ homebrew_installed_packages:
   - node
   - ssh-copy-id
   - zsh-history-substring-search
-  - python
   - poetry
   - pyenv
   - git
