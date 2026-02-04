@@ -51,11 +51,10 @@ homebrew_installed_packages:
   - node
   - ssh-copy-id
   - zsh-history-substring-search
-  - poetry
-  - pyenv
+  - uv
   - git
+  - nvm
   - node
-  - poetry
   - awscli
   - azure-cli
 
@@ -63,14 +62,16 @@ homebrew_taps: []
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - slack
-  - docker
-  - jetbrains-toolbox
   - google-chrome
   - rectangle
   - visual-studio-code
   - bitwarden
   - git-credential-manager
+  - drawio
+  - claude-code
+  - monitorcontrol
+  - orbstack
+  - postman
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
